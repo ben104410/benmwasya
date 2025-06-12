@@ -1,0 +1,21 @@
+body {
+    background: rgb(228, 95, 95);
+    background: white url("profile.jpg.jpg") no-repeat;
+    width: 200px;
+    height: 200px;
+    background-position: top-left;
+    border-radius: 50%;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+li a {
+    color: green;
+}
+
+/* Make poll questions bigger */
+.question-text {
+    font-size: 5em;
+    font-weight: bold;
+}
