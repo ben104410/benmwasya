@@ -1,4 +1,5 @@
-Django==4.2.3
-asgiref==3.6.0
-sqlparse==0.4.4
-# ...other dependencies...
+asgiref==3.8.1
+Django==5.2.1
+django-debug-toolbar==5.2.0
+sqlparse==0.5.3
+tzdata==2025.2
